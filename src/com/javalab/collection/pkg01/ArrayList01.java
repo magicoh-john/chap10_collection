@@ -33,5 +33,6 @@ public class ArrayList01 {
 	    for (String f : fruits) {
 	      System.out.println(f);
 	    }
+	    System.out.println("처리 완료");
 	  }
 	}
