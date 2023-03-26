@@ -1,0 +1,4 @@
+프로젝트 : chap04
+패키지 : package com.javalab.class08; 에서 작성했던 파일들
+Product,  ProductData, ProductMain
+복사 시키지 말고 처음 부터 다시 만들도록 지도할것.
